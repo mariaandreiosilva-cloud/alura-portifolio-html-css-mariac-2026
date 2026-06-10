@@ -1,1 +1,32 @@
-
+body{
+  background: #F9CAFC;
+  strong{
+    color: #8A0604;
+  }
+  h1{
+    color: #6B040D;
+      text-align: center;
+    span{
+      border: 1px solid black;
+      padding: 10px;
+    }
+  }
+    p{
+      text-aling: center;
+    }
+    img {
+      display: block;
+      widht: 100%;
+      height: auto;
+      max-width: 600px;
+      magin-left: auto;
+      magin-right: auto;
+    }
+  }
+ footer {
+   text-aling: center;
+   strong{
+     color:#8A0604
+   }
+  }
+}
